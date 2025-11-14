@@ -16,6 +16,7 @@ A simple **HTML, CSS, and JavaScript** application that allows students to join 
   
 * Displays weekly interest + total weekly payout
 * Validates that the correct amount matches the selected tier
+* Allow students to withdraw their money
 
 ### ✔ Dashboard
 
