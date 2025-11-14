@@ -212,6 +212,5 @@
         renderAll();
     }
 
-    // start
     init();
 })();
